@@ -1,6 +1,15 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=v2d27)
 ![shield](https://img.shields.io/badge/Contact-ducduc08@gmail.com-blue)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v2d27&layout=compact)
+
+
+#### Quotes for you
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 <!--
 **v2d27/v2d27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
