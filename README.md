@@ -8,9 +8,7 @@
 
 ###  Technical skills
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,gitlab,jenkins,kubernetes,docker,python,bash,typescript,ansible" />
-  </a>
 </p>
 
 
