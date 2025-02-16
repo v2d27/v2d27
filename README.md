@@ -1,13 +1,25 @@
 ## Hi there 👋
+
+![shield](https://img.shields.io/badge/📫_Contact-ducduc08@gmail.com-orange)
 ![](https://komarev.com/ghpvc/?username=v2d27)
-![shield](https://img.shields.io/badge/Contact-ducduc08@gmail.com-blue)
 
+- ✨ I'm Hercules, I’m currently working as DevOps/Cloud engineer.
+- 💬 Ask me about ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v2d27&layout=compact)
+<p align="center">
+    <strong align="center">Techical skills</strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,github,gitlab,jenkins,kubernetes,docker,python,bash,typescript,ansible" />
+  </a>
+</p>
 
+---
 
-#### Quotes for you
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+    <strong align="center">Quotes</strong>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"></img>
+</p>
+
 
 
 <!--
@@ -15,12 +27,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
