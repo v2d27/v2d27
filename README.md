@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
+![shield](https://img.shields.io/badge/Contact-ducduc08@gmail.com-blue)
 <!--
 **v2d27/v2d27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
