@@ -3,8 +3,9 @@
 ![shield](https://img.shields.io/badge/📫_Contact-ducduc08@gmail.com-orange)
 ![](https://komarev.com/ghpvc/?username=v2d27)
 
-- ✨ I'm Hercules, I’m currently working as DevOps/Cloud engineer.
-- 💬 Ask me about ...
+- ✨ I'm Hercules, I’m currently working as a DevOps/Cloud engineer.
+- 💬 I would love to design high-availability, high-traffic infrastructure.
+- 👋 Ask me about saving costs on cloud providers.
 
 ###  Technical skills
 <p align="center">
